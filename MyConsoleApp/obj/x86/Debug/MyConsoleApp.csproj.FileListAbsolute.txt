@@ -1,0 +1,5 @@
+C:\Personal\UAT\CSC413\Samples\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.exe
+C:\Personal\UAT\CSC413\Samples\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.pdb
+C:\Personal\UAT\CSC413\Samples\MyConsoleApp\MyConsoleApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Personal\UAT\CSC413\Samples\MyConsoleApp\MyConsoleApp\obj\x86\Debug\MyConsoleApp.exe
+C:\Personal\UAT\CSC413\Samples\MyConsoleApp\MyConsoleApp\obj\x86\Debug\MyConsoleApp.pdb
